@@ -60,7 +60,7 @@
 > There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing.
 
 ### Ordering PCBs from JLCPCB
-1. Download the Gerber file from [here](../blob/main/PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
+1. Download the Gerber file from [here](../main/PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
 2. Go to [JLCPCB](https://jlcpcb.com)
 3. Click on "Add Gerber File" and upload the zip Gerber file.
 <img src="Resources/Images/JLCPCB/JLCPCB1.png">
