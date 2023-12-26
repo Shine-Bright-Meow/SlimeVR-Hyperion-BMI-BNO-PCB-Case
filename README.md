@@ -1,7 +1,6 @@
 # SlimeVR Hyperion Multi-IMU BMI BNO Case and PCB
 
 ## Purchasing Guide
-
 ### Recommended Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
@@ -42,6 +41,12 @@
 > [!NOTE]
 > I recommend using Sheathed Wire Cable and soldering it directly onto the PCB. (JST XH Connector is not needed for this method) Usually, less connection issues than using connectors.
 
+### Recommended Consumables/Tools
+| Component | Variant | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Desoldewring Iron| Choose your electrical outlet | <https://www.aliexpress.us/item/3256804929123151.html> |
+| Rosin Flux | Liquid or Gel Type | N/A |
+
 ### Recommended Components (Case)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
@@ -55,6 +60,8 @@
 > There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing. 
 
 ### Ordering PCBs from JLCPCB
+1. Download the Gerber file from [here](PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
+2. 
 > [!IMPORTANT]
 > JLCPCB option notes.
 
