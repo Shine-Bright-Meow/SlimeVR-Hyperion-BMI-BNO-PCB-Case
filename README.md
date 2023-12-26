@@ -1,4 +1,3 @@
-<base target="_blank">
 # SlimeVR Hyperion Multi-IMU BMI BNO Case and PCB
 
 ## Purchasing Guide
