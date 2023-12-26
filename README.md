@@ -39,7 +39,7 @@
 | Sheathed Wire Cable | 28AWG & 4Cores(BMI160)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 > [!NOTE]
-> I recommend using Sheathed Wire Cable and soldering it directly onto the PCB. (JST XH Connector is not needed for this method) Usually, less connection issues than using connectors.
+> I recommend using Sheathed Wire Cable and soldering it directly onto the PCB for extensions. (JST XH Connector is not needed for this method) Usually, less connection issues than using connectors.
 
 ### Recommended Consumables/Tools
 | Component | Variant | Link |
