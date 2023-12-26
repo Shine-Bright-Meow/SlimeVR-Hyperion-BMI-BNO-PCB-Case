@@ -34,8 +34,8 @@
 ### Optional Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| JST XH 2.54mm Connector | Right ANgle/Side Entry & 4P(BMI160)/5P(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
-| JST XH 2.54mm Connector with Female Cable | Right ANgle/Side Entry & 4P(BMI160)/5P(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
+| JST XH 2.54mm Connector | Right Angle/Side Entry & 4P(BMI160)/5P(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
+| JST XH 2.54mm Connector with Female Cable | Right Angle/Side Entry & 4P(BMI160)/5P(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
 | Sheathed Wire Cable | 28AWG & 4Cores(BMI160)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 > [!NOTE]
