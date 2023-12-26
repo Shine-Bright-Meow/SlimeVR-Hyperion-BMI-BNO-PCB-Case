@@ -19,7 +19,7 @@
 > Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BNO085 than what is needed. There is the possibility that components are dead on arrival or gets damaged during assembly/soldering.
 
 > [!NOTE]
-> These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions.
+> These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions. Other stores/sellers may have a higher rate of dead on arrival. The linked stores for WeMos D1 Mini, TP4056, and BMI160/BNO085 are recommended by the SlineVR DIY Community.
 
 > [!NOTE]
 > Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C cables to charge trackers.
