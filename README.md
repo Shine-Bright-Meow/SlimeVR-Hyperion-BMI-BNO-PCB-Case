@@ -62,8 +62,10 @@
 ### Ordering PCBs from JLCPCB
 1. Download the Gerber file from [here](PCB).
 2. Go to [JLCPCB](https://jlcpcb.com)
-3. Click on "Add Gerber File" and upload the zip Gerber file. <img src="Resources/Images/JLCPCB/JLCPCB1.png">
-4. Select the PCB Qty and PCB Color of your Choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number. <img src="Resources/Images/JLCPCB/JLCPCB2.png">
+3. Click on "Add Gerber File" and upload the zip Gerber file.
+<img src="Resources/Images/JLCPCB/JLCPCB1.png">
+4. Select the PCB Qty and PCB Color of your Choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number.
+<img src="Resources/Images/JLCPCB/JLCPCB2.png">
 
 > [!IMPORTANT]
 > Set PCB Thickness to 1.0
@@ -76,8 +78,10 @@
 
 > [!NOTE]
 > For Remove Order Number, when "Specify a location" is selected, it will the order number will be printed at where the text **JLCJLCJLCJLC** is located. In this case, at the bottom of the TP4056 module footprint.
-5. Click to View Cart. <img src="Resources/Images/JLCPCB/JLCPCB3.png">
-6. Click Secure Checkout. <img src="Resources/Images/JLCPCB/JLCPCB4.png">
+5. Click to View Cart.
+<img src="Resources/Images/JLCPCB/JLCPCB3.png">
+6. Click Secure Checkout.
+<img src="Resources/Images/JLCPCB/JLCPCB4.png">
 
 ## Soldering/Assembly Guide
 
