@@ -1,6 +1,8 @@
 # SlimeVR Hyperion Multi-IMU BMI BNO Case and PCB
 
 ## Purchasing Guide
+
+### Required Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C | <https://www.aliexpress.us/item/2251832465432818.html> |
@@ -10,7 +12,7 @@
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> |
-| JST PH 2.0 Connector | Right Angle/Side Entry & 2P | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| JST PH 2.0mm Connector | Right Angle/Side Entry & 2P | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
 | Lithium Polymer Ion Battery | 503759 with Connector (PH) | <https://www.aliexpress.us/item/3256805125875396.html> |
 
 > [!IMPORTANT]
@@ -20,12 +22,32 @@
 > These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions.
 
 > [!NOTE]
-> Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work.
+> Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C to charge trackers.
 
 > [!TIP]
 > In your AliExpress Cart, you can verify that you selected the correct variant of the component here.
 
-### Recommended Components from AliExpress/Amazon
+### Optional Components (PCB)
+| Component | Variant | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| JST XH 2.54mm Connector | Right ANgle/Side Entry & 4P(BMI160)/5P(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
+| JST XH 2.54mm Connector with Female Cable | Right ANgle/Side Entry & 4P(BMI160)/5P(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
+| Sheathed Wire Cable | 28AWG & 4Cores(BMI160)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
+
+> [!NOTE]
+> I recommend using Sheathed Wire Cable cable and soldering it directly onto the PCB. (JST XH Connector not needed for this method) Usually, less connection issues than using connectors.
+
+### Recommended Components (Case)
+| Component | Variant | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Trilancer Elastic Cinch Straps | See note below | <https://www.amazon.com/dp/B099RNRT7Z> |
+| GoPro Chest Mount Harness | See note below | <https://www.aliexpress.us/item/3256805774922789.html> |
+
+> [!NOTE]
+> 12in works for ankles. 18in for thinner thighs and 24in for thicker thighs. Chest (if not using GoPro Chest Harness) and Hips can be done by doubling up on 18in/24in straps. Choose what you need for your body and how many trackers you are planning to make. 3 Size Combo and either 18in/24in package would be a start.
+
+> [!NOTE]
+> There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing. 
 
 ### Ordering PCBs from JLCPCB
 > [!IMPORTANT]
