@@ -48,6 +48,11 @@
 
 ## Troubleshooting
 
+Join [SlimeVR's Discord](https://discord.gg/SlimeVR) and ask in either the #techical-support or #DIY channels. It would be helpful for you to provide a description of your issue, photos of your soldering (front & back), and a log from Settings > Serial Console with your tracker plugged into your computer via data USB cable into your WeMos D1 Port (non-charging). You will need to press the **Reboot** button to get the complete log.
+
+### Using a Multimeter
+
+
 ## Contribute
 Feel free to create a pull request to this repository or mention me in SlimeVR's Discord #DIY channel (Do not DM me, it will go to my Message Request and I will not reply to you there)  for improvement ideas or your modifications of the source files below. 
 
