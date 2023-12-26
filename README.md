@@ -22,7 +22,7 @@
 > These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions.
 
 > [!NOTE]
-> Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C to charge trackers.
+> Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C cables to charge trackers.
 
 > [!TIP]
 > In your AliExpress Cart, you can verify that you selected the correct variant of the component here.
