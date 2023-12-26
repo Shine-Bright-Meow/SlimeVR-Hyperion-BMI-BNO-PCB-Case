@@ -48,7 +48,7 @@
 
 ## Troubleshooting
 
-Join [SlimeVR's Discord](https://discord.gg/SlimeVR) and ask in either the #techical-support or #DIY channels. It would be helpful for you to provide a description of your issue, photos of your soldering (front & back), and a log output from Settings > Serial Console with your tracker plugged into your computer via data USB cable into your WeMos D1 Port (non-charging). You will need to press the **Reboot** button to get the complete log.
+Join <a href="https://discord.gg/SlimeVR" target="_blank">SlimeVR Discord</a> and ask in either the #techical-support or #DIY channels. It would be helpful for you to provide a description of your issue, photos of your soldering (front & back), and a log output from Settings > Serial Console with your tracker plugged into your computer via data USB cable into your WeMos D1 Port (non-charging). You will need to press the **Reboot** button to get the complete log.
 
 ### Using a Multimeter
 
@@ -59,17 +59,17 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 ### Source Files
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
-| PCB | <https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno> |
-| Case | [Fusion 360 Files](../blob/master/LICENSE) |
+| PCB | <a href="https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno" target="_blank">https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno</a> |
+| Case | <a href="../blob/master/LICENSE" target="_blank">Fusion 360 Files</a> |
 
 ## Credit
 | Contributor | Description | Link |
 | -------------------- | ---------------------------------------- | -------------------------------------------------------------------------------- |
-| Smeltie | Original Concept of the Hyperion Case | <https://github.com/Smeltie/Hyperion> |
-| Lupinixx | Original BMI160 PCB Design and SS12D00G3 Tray used in this repository | <https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB> |
-| Tmandel | BNO085 modifications to the original PCB | <https://oshwlab.com/tmandel/slimevr-hyperion-503759-bno085> |
-| Astrocast123 | Improvement on Tmandel's BNO08X PCB revision | <https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X> |
-| Shine Bright | Improvements to PCB, new case design, and this guide write-up in this repository | <https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X> |
+| Smeltie | Original Concept of the Hyperion Case | <a href="https://github.com/Smeltie/Hyperion" target="_blank">https://github.com/Smeltie/Hyperion</a> |
+| Lupinixx | Original BMI160 PCB Design and SS12D00G3 Tray used in this repository | <a href="https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB" target="_blank">https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB</a> |
+| Tmandel | BNO085 modifications to the original PCB | <a href="https://oshwlab.com/tmandel/slimevr-hyperion-503759-bno085" target="_blank">https://oshwlab.com/tmandel/slimevr-hyperion-503759-bno085</a> |
+| Astrocast123 | Improvement on Tmandel's BNO08X PCB revision | <a href="https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X" target="_blank"></a> |
+| Shine Bright | Improvements to PCB, new case design, and this guide write-up in this repository | <a href="https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X" target="_blank">https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X</a> |
 
 ## License
 This project is licensed under the MIT license.
