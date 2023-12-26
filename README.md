@@ -2,7 +2,7 @@
 
 ## Purchasing Guide
 
-### Ordering Components from AliExpress/Amazon
+### Recommended Components from AliExpress/Amazon
 
 ### Ordering PCBs from JLCPCB
 
