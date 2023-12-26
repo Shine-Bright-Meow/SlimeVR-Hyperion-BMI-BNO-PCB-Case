@@ -13,4 +13,4 @@
 #### Safety
 
 ### Video Guide
-[![Video Guide](https://i3.ytimg.com/vi/Jj9A87dSZgY/maxresdefault.jpg)([https://www.youtube.com/watch?v=Jj9A87dSZgY "Video Guide")
+[![Video Guide](https://i3.ytimg.com/vi/Jj9A87dSZgY/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Jj9A87dSZgY "Video Guide")
