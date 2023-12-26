@@ -30,6 +30,7 @@
 
 > [!TIP]
 > In your AliExpress Cart, you can verify that you selected the correct variant of the component here.
+<img src="/Resources/Images/Purchasing/Cart.png">
 
 ### Optional Components (PCB)
 | Component | Variant | Link |
