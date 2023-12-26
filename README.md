@@ -7,8 +7,9 @@
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C | <https://www.aliexpress.us/item/2251832465432818.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html> |
-| BMI160 | Breakout Board | <https://www.aliexpress.us/item/2255799866368692.html> |
-| BNO085 | Breakout Board | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> |
+| BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| SS22F32/DPDT 2P2T Switches | N/A | <https://www.aliexpress.us/item/2251832789220847.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> |
@@ -20,7 +21,7 @@
 
 
 > [!NOTE]
-> One Order of Resistors, Diodes, Header Pins, and PH 2.0mm Connectors are enough for the entire project.
+> One order of Resistors, Diodes, Header Pins, Switches, and PH 2.0mm Connectors is enough for the entire project.
 
 > [!NOTE]
 > These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions. Other stores/sellers may have a higher rate of dead on arrival. The linked stores for WeMos D1 Mini, TP4056, and BMI160/BNO085 are recommended by the SlineVR DIY Community.
