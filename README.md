@@ -60,8 +60,20 @@
 > There are 2 types of GoPro Chest Mount Harness. One that clips in and the other one fasten by a bolt. Be sure to purchase one one for the case you are 3D Printing. 
 
 ### Ordering PCBs from JLCPCB
-1. Download the Gerber file from [here](PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
-2. 
+1. Download the Gerber file from [here](PCB).
+2. Go to [JLCPCB](https://jlcpcb.com)
+3. Click on "Add Gerber File" and upload the zip Gerber file. <img src="Resources/Images/JLCPCB/JLCPCB1.png">
+4. Select the PCB Qty and PCB Color of your Choice. Seelct 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number. <img src="Resources/Images/JLCPCB/JLCPCB2.png">
+
+> [!NOTE]
+> When ordering PCBs, please check if the case recommends a certain thickness it is designed for. For example, the case in this repository and Cheesecake requires 1.0mm Thickness. If unspecified, the default 1.6mm will do. The case in this repository has loose tolerances incase you ordered the default 1.6mm thickness, it will work okay.
+
+> [!NOTE]
+> JLCPCB usually produces Green colored PCB the quickness. Other colors have additional days added.
+
+> [!NOTE]
+> For Remove Order Number, when "Specify a location" is selected, it will the order number will be printed at where the text **JLCJLCJLCJLC** is located. In this case, at the bottom of the TP4056 module footprint.
+
 > [!IMPORTANT]
 > JLCPCB option notes.
 
