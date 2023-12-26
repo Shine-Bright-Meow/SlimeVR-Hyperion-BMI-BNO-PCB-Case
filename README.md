@@ -2,7 +2,7 @@
 
 ## Purchasing Guide
 
-### Required Components (PCB)
+### Recommended Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C | <https://www.aliexpress.us/item/2251832465432818.html> |
@@ -13,12 +13,11 @@
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> |
-| JST PH 2.0mm Connector | Right Angle/Side Entry & 2P | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| JST PH 2.0mm Connector | Right Angle/Side Entry & 2P | <https://www.aliexpress.us/item/3256804769340392.html> |
 | Lithium Polymer Ion Battery | 503759 with Connector (PH) | <https://www.aliexpress.us/item/3256805125875396.html> |
 
 > [!IMPORTANT]
 > Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BNO085 than what is needed. There is the possibility that components are dead on arrival or gets damaged during assembly/soldering.
-
 
 > [!NOTE]
 > One order of Resistors, Diodes, Header Pins, Switches, and PH 2.0mm Connectors is enough for the entire project.
