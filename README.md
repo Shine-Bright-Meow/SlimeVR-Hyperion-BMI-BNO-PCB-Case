@@ -18,6 +18,10 @@
 > [!IMPORTANT]
 > Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BNO085 than what is needed. There is the possibility that components are dead on arrival or gets damaged during assembly/soldering.
 
+
+> [!NOTE]
+> One Order of Resistors, Diodes, Header Pins, and PH 2.0mm Connectors are enough for the entire project.
+
 > [!NOTE]
 > These are my recommended sellers/stores and recommended components just for the main tracker unit. You can always purchase components from elsewhere and that you may need Additional components are needed for extensions. Other stores/sellers may have a higher rate of dead on arrival. The linked stores for WeMos D1 Mini, TP4056, and BMI160/BNO085 are recommended by the SlineVR DIY Community.
 
