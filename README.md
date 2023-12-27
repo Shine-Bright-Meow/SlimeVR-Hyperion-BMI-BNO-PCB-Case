@@ -127,6 +127,7 @@ Join [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #techni
 
 > [!NOTE]
 > Also, test the switch for continuity in the on position.
+
 Left and Middle Pins on SS12D00G3 Switch:
 <img src="Resources/Images/Troubleshooting/Switch.png">
 Left and Middle Pins of the bottom row (against the PCB) for DPDT 2P2T/SS22F32 Switch:
