@@ -156,8 +156,7 @@
 <img src="Resources/Images/AssemblyResistor.png">
 2. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole. Resistors are not polarized, so the direction does not matter.
 3. Pull the excess on the back until resistor is flush with the PCB.
-6. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
-  
+4. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
 #### Switch
 
