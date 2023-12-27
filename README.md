@@ -116,6 +116,17 @@ Join [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #techni
 
 ### Using a Multimeter
 
+1. Go to the drawing located [here](https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno).
+2. Scroll down to the PCB section and click the Open in Editor button.
+<img src="Resources/Images/Troubleshooting/Troubleshoot1.png">
+3. Mouseover each pad and see which pads they are also connected to.
+<img src="Resources/Images/Troubleshooting/Troubleshoot2.png">
+4. Set your multimeter to co
+<img src="Resources/Images/Troubleshooting/Multimeter.png">
+5. Test for continuity between the pad you have highlighted and every pad that is connected to it.
+
+> [!NOTE]
+> Also, test the switch for continuity in the on position.
 
 ## Contribute
 Feel free to create a pull request to this repository or mention me in SlimeVR's Discord #DIY channel (Do not DM me, it will go to my Message Request and I will not reply to you there)  for improvement ideas or your modifications of the source files below.
