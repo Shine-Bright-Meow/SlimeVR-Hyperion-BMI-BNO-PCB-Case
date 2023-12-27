@@ -105,6 +105,55 @@
 > [!NOTE]
 > Resistor and Diodes
 
+#### Battery Connector
+##### With JST PH 2.0mm 2P Connector
+<img src="Resources/Images/Assembly/Battery1.png">
+1. Place connector as positioned on the photo. The opening should be facing teh cutout and the smooth side should be on top and the slotted side should e against the PCB.
+2. Solder the 2 pins in the back.
+3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+##### Without JST Connector
+> [!IMPORTANT]
+> This step should be done last after the entire board is assembled and after you verified that the solder joints all look fine.
+
+> [!IMPORTANT]
+> Do not solder the battery leads to the holes of the PCB. The angle will put stress on the wire and solder joint and will eventually break off.
+
+<img src="Resources/Images/Assembly/Battery2.png">
+1. Strip the battery leads they are not exposed already.
+
+> [!WARNING]
+> Do not let the exposed battery leads make contact with each other.
+
+2. Place your soldering iron on the BAT+ pad and melt the solder.
+3. Place the **RED** battery lead in the molten solder pad and let it cool off.
+4. Repeat the process for the BAT- pad and the **BLACK** battery lead.
+
+##### Diodes
+> [!NOTE]
+> Make sure the diode is facing the correct direction and has the correct values. It will not be easy to access the diode once you solder the IMU above it.
+
+1. Verify that the diodes are 1N5817. You can find the text on the body.
+<img src="Resources/Images/Assembly/Diode1.png">
+2.Place the diode's striped (grey/silver) on the narrow stripe indicated on the silkscreen.
+<img src="Resources/Images/Assembly/Diode2.png">
+<img src="Resources/Images/Assembly/Diode3.png">
+3. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole.
+4. Pull the excess on the back until diode is flush with the PCB.
+5. Solder ends from the back.
+6. Repeat for other diode.
+7. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+
+##### Resistor
+
+#### Switch
+
+#### Charging Board (TP4056)
+
+#### IMU (BMI160 or BNO085)
+
+#### MCU (WeMos D1 Mini)
+
 ### Video Guide (No Audio)
 <a href="https://www.youtube.com/watch?v=Jj9A87dSZgY" target="_blank"><img src="http://i3.ytimg.com/vi/Jj9A87dSZgY/hqdefault.jpg" alt="Video Tutorial (No Audio)" width="360" height="270" border="0" /></a>
 
