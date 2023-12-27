@@ -199,7 +199,7 @@ Left and Middle Pins of the bottom row (against the PCB) for DPDT 2P2T/SS22F32 S
 <img src="Resources/Images/Troubleshooting/Switch2.png">
 
 ## Contribute
-Feel free to create a pull request to this repository or mention me in SlimeVR's Discord #DIY channel (Do not DM me, it will go to my Message Request and I will not reply to you there)  for improvement ideas or your modifications of the source files below.
+Feel free to create a pull request to this repository or mention me in SlimeVR's Discord #DIY channel (Do not DM me, it will go to my Message Request and I will not reply to you there) for improvement ideas or your modifications of the source files below or to the guide above.
 
 ### Source Files
 | Component | Link |
