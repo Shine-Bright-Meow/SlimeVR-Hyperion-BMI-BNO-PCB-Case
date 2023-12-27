@@ -27,6 +27,11 @@
 > [!NOTE]
 > Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C cables to charge trackers.
 
+> [!IMPORTANT]
+> When purchasing components, some have multiple variants on the same product page like Diodes and Resistor. Be sure to select the correct one.
+<img src="Resources/Images/Purchasing/Purchasing1.png">
+<img src="Resources/Images/Purchasing/Purchasing2.png">
+
 > [!TIP]
 > In your AliExpress Cart, you can verify that you selected the correct variant of the component here.
 <img src="Resources/Images/Purchasing/Cart.png">
