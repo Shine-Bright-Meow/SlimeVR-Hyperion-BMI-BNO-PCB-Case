@@ -84,8 +84,11 @@
 > [!NOTE]
 > For Remove Order Number, when "Specify a location" is selected, it will the order number will be printed at where the text **JLCJLCJLCJLC** is located. In this case, at the bottom of the TP4056 module footprint.
 5. Click to View Cart.
+
 <img src="Resources/Images/JLCPCB/JLCPCB3.png">
+
 6. Click Secure Checkout.
+
 <img src="Resources/Images/JLCPCB/JLCPCB4.png">
 
 ## Soldering/Assembly Guide
@@ -113,6 +116,7 @@
 #### Battery Connector
 ##### With JST PH 2.0mm 2P Connector
 <img src="Resources/Images/Assembly/Battery1.png">
+
 1. Place connector as positioned on the photo. The opening should be facing teh cutout and the smooth side should be on top and the slotted side should e against the PCB.
 2. Solder the 2 pins in the back.
 3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
@@ -125,6 +129,7 @@
 > Do not solder the battery leads to the holes of the PCB. The angle will put stress on the wire and solder joint and will eventually break off.
 
 <img src="Resources/Images/Assembly/Battery2.png">
+
 1. Strip the battery leads they are not exposed already.
 
 > [!WARNING]
@@ -139,10 +144,15 @@
 > Make sure the diode is facing the correct direction and has the correct values. It will not be easy to access the diode once you solder the IMU above it.
 
 1. Verify that the diodes are 1N5817. You can find the text on the body.
+
 <img src="Resources/Images/Assembly/Diode1.png">
+
 2.Place the diode's striped (grey/silver) on the narrow stripe indicated on the silkscreen.
+
 <img src="Resources/Images/Assembly/Diode2.png">
+
 <img src="Resources/Images/Assembly/Diode3.png">
+
 3. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole.
 4. Pull the excess on the back until diode is flush with the PCB.
 5. Solder ends from the back.
@@ -158,7 +168,9 @@
 - Grey
 - Black
 - Orange
+
 <img src="Resources/Images/Assembly/Resistor.png">
+
 2. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole. Resistors are not polarized, so the direction does not matter.
 3. Pull the excess on the back until resistor is flush with the PCB.
 4. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
@@ -188,19 +200,28 @@ Join [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #techni
 
 1. Go to the drawing located [here](https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno).
 2. Scroll down to the PCB section and click the Open in Editor button.
+
 <img src="Resources/Images/Troubleshooting/Troubleshoot1.png">
+
 3. Mouseover each pad and see which pads they are also connected to.
+
 <img src="Resources/Images/Troubleshooting/Troubleshoot2.png">
+
 4. Set your multimeter to continuity mode.
+
 <img src="Resources/Images/Troubleshooting/Multimeter.png">
+
 5. Test for continuity between the pad you have highlighted with your mouse and every pad that is connected to it. Do this for every trace.
 
 > [!NOTE]
 > Also, test the switch for continuity in the on position.
 
 Left and Middle Pins on SS12D00G3 Switch:
+
 <img src="Resources/Images/Troubleshooting/Switch.png">
+
 Left and Middle Pins of the bottom row (against the PCB) for DPDT 2P2T/SS22F32 Switch:
+
 <img src="Resources/Images/Troubleshooting/Switch2.png">
 
 ## Contribute
