@@ -127,6 +127,9 @@
 2. Solder the 2 pins in the back.
 3. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
+> [!NOTE]
+> If you got straight pin connectors, you can bend them 90 degrees, so they will work. There will be a little less pin length sticking out from the back to solder and there is a chance of you snapping them. You should have plenty of connectors incase the pin snaps.
+
 ##### Without JST Connector
 > [!IMPORTANT]
 > This step should be done last after the entire board is assembled and after you verified that the solder joints all look fine.
