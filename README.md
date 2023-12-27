@@ -145,6 +145,19 @@
 7. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
 
 ##### Resistor
+> [!NOTE]
+> Make sure the resistor is the correct value. It will not be easy to access the resistor once you solder the IMU above it.
+
+1. Verify the resistor is 180K. The first 4 colors should go in this order:
+- Brown
+- Grey
+- Black
+- Orange
+<img src="Resources/Images/AssemblyResistor.png">
+2. Bend the ends in 90 degrees, so it is shaped like a staple and place into the through-hole. Resistors are not polarized, so the direction does not matter.
+3. Pull the excess on the back until resistor is flush with the PCB.
+6. Trim excess length of pins using a flush cutter. Use your wire cutter if you don't have a flush cutter and cut as close the the PCB as you can.
+  
 
 #### Switch
 
