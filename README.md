@@ -153,7 +153,7 @@
 
 <img src="Resources/Images/Assembly/Diode1.png">
 
-2.Place the diode's striped (grey/silver) on the narrow stripe indicated on the silkscreen.
+2. Place the diode's striped (grey/silver) on the narrow stripe indicated on the silkscreen.
 
 <img src="Resources/Images/Assembly/Diode2.png">
 
