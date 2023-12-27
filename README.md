@@ -121,9 +121,9 @@ Join [SlimeVR Discord](https://discord.gg/SlimeVR) and ask in either the #techni
 <img src="Resources/Images/Troubleshooting/Troubleshoot1.png">
 3. Mouseover each pad and see which pads they are also connected to.
 <img src="Resources/Images/Troubleshooting/Troubleshoot2.png">
-4. Set your multimeter to co
+4. Set your multimeter to continuity mode.
 <img src="Resources/Images/Troubleshooting/Multimeter.png">
-5. Test for continuity between the pad you have highlighted and every pad that is connected to it.
+5. Test for continuity between the pad you have highlighted with your mouse and every pad that is connected to it. Do this for every trace.
 
 > [!NOTE]
 > Also, test the switch for continuity in the on position.
