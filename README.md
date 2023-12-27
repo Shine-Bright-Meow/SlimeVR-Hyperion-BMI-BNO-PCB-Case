@@ -29,11 +29,14 @@
 
 > [!IMPORTANT]
 > When purchasing components, some have multiple variants on the same product page like Diodes and Resistor. Be sure to select the correct one.
+
 <img src="Resources/Images/Purchasing/Purchasing1.png">
+
 <img src="Resources/Images/Purchasing/Purchasing2.png">
 
 > [!TIP]
 > In your AliExpress Cart, you can verify that you selected the correct variant of the component here.
+
 <img src="Resources/Images/Purchasing/Cart.png">
 
 ### Optional Components (PCB)
@@ -68,8 +71,11 @@
 1. Download the Gerber file from [here](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
 2. Go to [JLCPCB](https://jlcpcb.com)
 3. Click on "Add Gerber File" and upload the zip Gerber file.
+
 <img src="Resources/Images/JLCPCB/JLCPCB1.png">
+
 4. Select the PCB Qty and PCB Color of your Choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number.
+
 <img src="Resources/Images/JLCPCB/JLCPCB2.png">
 
 > [!IMPORTANT]
