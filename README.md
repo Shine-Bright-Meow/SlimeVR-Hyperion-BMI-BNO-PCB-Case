@@ -68,7 +68,7 @@
 <img src="Resources/Images/JLCPCB/JLCPCB2.png">
 
 > [!IMPORTANT]
-> Set PCB Thickness to 1.0
+> Set PCB Thickness to 1.0 if you are using the case from this repository.
 
 > [!NOTE]
 > When ordering PCBs, please check if the case recommends a certain thickness it is designed for. For example, the case in this repository and Cheesecake recommend 1.0mm Thickness. If unspecified, the default 1.6mm will do. The case in this repository has loose tolerances incase you ordered the default 1.6mm thickness, it will work okay.
