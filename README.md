@@ -203,6 +203,11 @@
 The case consists of 3 files: Case, Lid, and Tray.
 
 ### Case
+
+<img src="Resources/Images/Case/Case1.png">
+
+<img src="Resources/Images/Case/Case2.png">
+
 - No AUX hasa solid back portion.
 - AUX has a cutout for a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers.
 - 50mm Strap Loops are the normal for fastening the tracker to your body. You can always use smaller straps.
