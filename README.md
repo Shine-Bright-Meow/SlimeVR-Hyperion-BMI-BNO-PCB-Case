@@ -215,8 +215,8 @@ The case consists of 3 files: Case, Lid, and Tray.
 | 503759 | GoPro Chest Harness Adapter / No AUX | Soon™ |
 
 ### Lid
-- No AUX hasa solid back portion.
-- AUX has a msakk notch cutout giving the JST XH 2.54mm 4P-Pin or 5-Pin connector a bit of additional height.
+- No AUX has a solid back portion.
+- AUX has a notch cutout giving the JST XH 2.54mm 4P-Pin or 5-Pin connector a bit of additional height.
   
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
