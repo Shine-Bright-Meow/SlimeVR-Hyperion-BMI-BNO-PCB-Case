@@ -260,7 +260,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
 | PCB | <https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno> |
-| Case | Soon™ |
+| Case | Fusion 360 Files - Soon™ |
 
 ## Credit
 | Contributor | Description | Link |
