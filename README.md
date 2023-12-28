@@ -200,6 +200,26 @@
 <a href="https://www.youtube.com/watch?v=Jj9A87dSZgY" target="_blank"><img src="http://i3.ytimg.com/vi/Jj9A87dSZgY/hqdefault.jpg" alt="Video Tutorial (No Audio)" width="360" height="270" border="0" /></a>
 
 ## Case Guide
+The case consists of 3 files: Case, Lid, and Tray.
+
+### Case
+| Battery | Variant | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| 503759 | 50mm Strap Loops / No AUX | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
+| 503759 | 50mm Strap Loops / AUX Cutout| [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
+| 503759 | GoPro Chest Harness Adapter / No AUX | Soon™ |
+
+### Lid
+| Battery | Variant | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| 503759 | No AUX | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
+| 503759 | AUX Cutout | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
+
+### Tray
+| Battery | Switch | Link |
+| -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| 50375 | SS22F32 | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
+| 50375 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
 
 ## Troubleshooting
 
@@ -240,7 +260,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
 | PCB | <https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno> |
-| Case | [Fusion 360 Files](Case/Fusion60/) |
+| Case | Soon™ |
 
 ## Credit
 | Contributor | Description | Link |
