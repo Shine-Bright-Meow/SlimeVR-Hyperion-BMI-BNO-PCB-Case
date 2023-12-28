@@ -218,8 +218,8 @@ The case consists of 3 files: Case, Lid, and Tray.
 ### Tray
 | Battery | Switch | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| 50375 | SS22F32 | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
-| 50375 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
+| 503759 | SS22F32 | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
+| 503759 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
 
 ## Troubleshooting
 
