@@ -69,7 +69,7 @@
 
 ### Ordering PCBs from JLCPCB
 1. Download the Gerber file from [here](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/PCB/Gerber_PCB_Hyperion%20SlimeVR%20Multi-IMU%20BMI%20BNO.zip).
-2. Go to [JLCPCB](https://jlcpcb.com)
+2. Go to [JLCPCB](https://jlcpcb.com).
 3. Click on "Add Gerber File" and upload the zip Gerber file.
 
 <img src="Resources/Images/JLCPCB/JLCPCB1.png">
@@ -111,10 +111,10 @@
 > If working with leaded solder, be sure to wash your hands when you are done including under your fingernails. Wipe down and vacuum the floors and surfaces of your workspace and anything you may have cross-contaminated.
 
 > [!TIP]
-> Using external flux (preferably Rosin) will allow solder to flow to automatically flow into the correct area
+> Using external flux (preferably Rosin) will allow solder to flow to automatically flow into the correct area.
 
 > [!TIP]
-> A wooden clothespin can be used to hold the boards together while soldering
+> A wooden clothespin can be used to hold the boards together while soldering.
 
 > [!NOTE]
 > Resistor and Diodes
