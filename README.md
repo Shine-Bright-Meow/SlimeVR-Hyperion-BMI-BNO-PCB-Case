@@ -74,7 +74,7 @@
 
 <img src="Resources/Images/JLCPCB/JLCPCB1.png">
 
-4. Select the PCB Qty and PCB Color of your Choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number.
+4. Select the PCB Qty and PCB Color of your choice. Select 1.0 for PCB Thickness and select "Specify a location" for Remove Order Number.
 
 <img src="Resources/Images/JLCPCB/JLCPCB2.png">
 
