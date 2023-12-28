@@ -203,6 +203,11 @@
 The case consists of 3 files: Case, Lid, and Tray.
 
 ### Case
+- No AUX hasa solid back portion.
+- AUX has a cutout for a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers.
+- 50mm Strap Loops are the normal for fastening the tracker to your body. You can always use smaller straps.
+- GoPro Chest Harness Adapter snaps into the harness clip from the top. It is more stable for chest tracking and won't slip down your body.
+
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | 50mm Strap Loops / No AUX | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
@@ -210,12 +215,18 @@ The case consists of 3 files: Case, Lid, and Tray.
 | 503759 | GoPro Chest Harness Adapter / No AUX | Soon™ |
 
 ### Lid
+- No AUX hasa solid back portion.
+- AUX has a msakk notch cutout giving the JST XH 2.54mm 4P-Pin or 5-Pin connector a bit of additional height.
+  
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | No AUX | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
 | 503759 | AUX Cutout | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
 
 ### Tray
+- SS22F32 is a flat tray since the switch is supported by wedging against the PCB and Case.
+- SS12D00G3 tray has a craddle for the switch to go into. It prevents the pins from being bent when turning on or off the tracker.
+  
 | Battery | Switch | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | SS22F32 | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
