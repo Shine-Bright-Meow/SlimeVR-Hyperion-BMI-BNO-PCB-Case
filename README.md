@@ -2,6 +2,8 @@
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
+Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not both.
+
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C | <https://www.aliexpress.us/item/2251832465432818.html> |
