@@ -204,6 +204,14 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
 
+Printer Settings used:
+- **Printer:** Creality CR-10 S5
+- **Infill:** 0%
+- **No** Rafts or Supports
+- **Resolution:** 0.2mm
+- **Nozzle:** 0.4mm
+- Tested with PLA+ and PETG
+
 ### Case
 
 <img src="Resources/Images/Case/Case1.png">
