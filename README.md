@@ -14,7 +14,7 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
 | Header Pins | 2.54mm | <https://www.aliexpress.us/item/3256805804439042.html> |
-| JST PH 2.0mm Connector | Right Angle/Side Entry & 2P | <https://www.aliexpress.us/item/3256804769340392.html> |
+| JST PH 2.0mm Connector | Right Angle/Side Entry & 2-Pins (2P) | <https://www.aliexpress.us/item/3256804769340392.html> |
 | Lithium Polymer Ion Battery | 503759 with Connector (PH) | <https://www.aliexpress.us/item/3256805125875396.html> |
 
 > [!IMPORTANT]
@@ -44,8 +44,8 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 ### Optional Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| JST XH 2.54mm Connector | Right Angle/Side Entry & 4P(BMI160)/5P(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
-| JST XH 2.54mm Connector with Female Cable | Right Angle/Side Entry & 4P(BMI160)/5P(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
+| JST XH 2.54mm Connector | Right Angle/Side Entry & 4-Pins(BMI160)/5-Pins(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
+| JST XH 2.54mm Connector with Female Cable | Right Angle/Side Entry & 4-Pins(BMI160)/5-Pins(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
 | Sheathed Wire Cable | 28AWG & 4Cores(BMI160)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 > [!NOTE]
