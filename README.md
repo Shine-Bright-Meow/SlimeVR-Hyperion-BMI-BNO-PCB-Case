@@ -6,7 +6,7 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| WeMos D1 Mini | Micro or Type-C | <https://www.aliexpress.us/item/2251832465432818.html> |
+| WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html> |
 | BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> |
 | BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
