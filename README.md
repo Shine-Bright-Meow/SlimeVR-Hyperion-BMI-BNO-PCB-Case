@@ -227,7 +227,7 @@ Printer Settings used:
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | 50mm Strap Loops / No AUX | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
 | 503759 | 50mm Strap Loops / AUX Cutout| [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
-| 503759 | GoPro Chest Harness Adapter / No AUX | Soon™ |
+| 503759 | GoPro Chest Harness Adapter / No AUX | [Hyperion_Lite_Case_503759_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_GoPro.stl) |
 
 ### Lid
 - No AUX has a solid back portion.
