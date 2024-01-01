@@ -300,5 +300,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Astrocast123 | Improvement on Tmandel's BNO08X PCB revision | <https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X> |
 | Shine Bright | Improvements to PCB, new case design, and this guide write-up in this repository | <https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case> |
 
+Thank you to those who printed my case and provided feedback: Topaz, Ventidge, Higanbana (Meia), and Plank.
+
 ## Licence
 This project is licensed under the MIT licence.
