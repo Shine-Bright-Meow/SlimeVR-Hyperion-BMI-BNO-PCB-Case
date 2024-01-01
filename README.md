@@ -233,7 +233,7 @@ Printer Settings used:
 
 ### Lid
 - No AUX / AUX 5mm Hole has a solid back portion. Use this Lid for the **AUX 5mmm Hole** case also.
-- AUX has a notch cutout giving the JST XH 2.54mm 4P-Pin or 5-Pin connector a bit of additional height.
+- AUX has a notch cutout giving the JST XH 2.54mm 4P-Pin or 5-Pin connector a bit of additional height. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
   
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
