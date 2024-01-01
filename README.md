@@ -237,7 +237,7 @@ Printer Settings used:
   
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| 503759 | No AUX / AUX 5mm Hole | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
+| 503759 | No AUX or AUX 5mm Hole Case | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
 | 503759 | AUX JST Cutout | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
 | 503759 | AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Lid_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX_Lupinixx.stl) |
 
