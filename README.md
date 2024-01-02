@@ -220,9 +220,11 @@ Printer Settings used:
 
 - **No AUX** hasa solid back portion.
 - **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
-- **AUX 5mm Hole** has a 5mm hole on the wall next to the TP4056 board. You can use the **No AUX** Lid for it.
 - **50mm Strap Loops** are the normal for fastening the tracker to your body. You can always use smaller straps.
 - **GoPro Chest Harness Adapter** snaps into the harness clip from the top. It is more stable for chest tracking and won't slip down your body.
+
+> [!NOTE]
+> 804040 Files are untested. Please print one and make sure everything fits before printing more and let me know how everything goes on SlimeVR Discord!
 
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
@@ -230,6 +232,10 @@ Printer Settings used:
 | 503759 | 50mm Strap Loops / AUX JST Cutout | [Hyperion_Lite_Case_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX.stl) |
 | 503759 | 50mm Strap Loops / AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Case_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_AUX_Lupinixx.stl) |
 | 503759 | GoPro Chest Harness Adapter / No AUX | [Hyperion_Lite_Case_503759_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759_GoPro.stl) |
+| 804040 | 50mm Strap Loops / No AUX | [Hyperion_Lite_Case_804040.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040.stl)|
+| 804040 | 50mm Strap Loops / AUX JST Cutout | [Hyperion_Lite_Case_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX.stl) |
+| 804040 | 50mm Strap Loops / AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Case_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX_Lupinixx.stl) |
+| 804040 | GoPro Chest Harness Adapter / No AUX | [Hyperion_Lite_Case_804040_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_GoPro.stl) |
 
 ### Lid
 - No AUX / AUX 5mm Hole has a solid back portion. Use this Lid for the **AUX 5mmm Hole** case also.
@@ -237,9 +243,12 @@ Printer Settings used:
   
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| 503759 | No AUX or AUX 5mm Hole Case | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
+| 503759 | No AUX | [Hyperion_Lite_Lid_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759.stl) |
 | 503759 | AUX JST Cutout | [Hyperion_Lite_Lid_503759_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX.stl) |
 | 503759 | AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Lid_503759_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_503759_AUX_Lupinixx.stl) |
+| 804040 | No AUX | [Hyperion_Lite_Lid_804040.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_804040.stl) |
+| 804040 | AUX JST Cutout | [Hyperion_Lite_Lid_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_804040_AUX.stl) |
+| 804040 | AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Lid_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Lid_804040_AUX_Lupinixx.stl) |
 
 ### Tray
 - SS22F32 is a flat tray since the switch is supported by wedging against the PCB and Case.
@@ -249,6 +258,8 @@ Printer Settings used:
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | SS22F32 | [Hyperion_Lite_Tray_503759_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS22F32.stl)|
 | 503759 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
+| 804040 | SS22F32 | [Hyperion_Lite_Tray_804040_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS22F32.stl)|
+| 804040 | SS12D00G3| [Hyperion_Lite_Tray_804040_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS12D00G3.stl) |
 
 ## Troubleshooting
 
