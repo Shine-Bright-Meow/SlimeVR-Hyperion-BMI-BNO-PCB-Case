@@ -218,6 +218,10 @@ Printer Settings used:
 
 <img src="Resources/Images/Case/Case2.png">
 
+<img src="Resources/Images/Case/Case3.png">
+
+<img src="Resources/Images/Case/Case4.png">
+
 - **No AUX** hasa solid back portion.
 - **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
 - **50mm Strap Loops** are the normal for fastening the tracker to your body. You can always use smaller straps.
