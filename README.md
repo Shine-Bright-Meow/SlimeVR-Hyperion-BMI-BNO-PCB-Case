@@ -218,10 +218,6 @@ Printer Settings used:
 
 <img src="Resources/Images/Case/Case2.png">
 
-<img src="Resources/Images/Case/Case3.png">
-
-<img src="Resources/Images/Case/Case4.png">
-
 - **No AUX** hasa solid back portion.
 - **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
 - **50mm Strap Loops** are the normal for fastening the tracker to your body. You can always use smaller straps.
@@ -264,6 +260,11 @@ Printer Settings used:
 | 503759 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
 | 804040 | SS22F32 | [Hyperion_Lite_Tray_804040_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS22F32.stl)|
 | 804040 | SS12D00G3| [Hyperion_Lite_Tray_804040_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS12D00G3.stl) |
+
+### Case Gallery
+<img src="Resources/Images/Case/Case3.png">
+
+<img src="Resources/Images/Case/Case4.png">
 
 ## Troubleshooting
 
