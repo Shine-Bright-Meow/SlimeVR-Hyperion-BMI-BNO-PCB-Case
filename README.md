@@ -223,6 +223,9 @@ Printer Settings used:
 - **50mm Strap Loops** are the normal for fastening the tracker to your body. You can always use smaller straps.
 - **GoPro Chest Harness Adapter** snaps into the harness clip from the top. It is more stable for chest tracking and won't slip down your body.
 
+> [!IMPORTANT]
+> GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
+
 > [!NOTE]
 > 804040 files are untested. Please print one and make sure everything fits before printing more and let me know how everything goes on SlimeVR Discord!
 
