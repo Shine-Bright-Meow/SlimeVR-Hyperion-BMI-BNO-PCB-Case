@@ -269,7 +269,7 @@ Higanbana (Meia)
 
 <img src="Resources/Images/Case/Case3.png">
 
-Ventidge (904040 Edit)
+Ventidge (804040 Edit)
 
 <img src="Resources/Images/Case/Case4.png">
 
