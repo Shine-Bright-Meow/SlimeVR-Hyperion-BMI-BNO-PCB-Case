@@ -265,11 +265,11 @@ Printer Settings used:
 | 804040 | SS12D00G3| [Hyperion_Lite_Tray_804040_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS12D00G3.stl) |
 
 ### Case Gallery
-<img src="Resources/Images/Case/Case3.png">
 Higanbana (Meia)
+<img src="Resources/Images/Case/Case3.png">
 
-<img src="Resources/Images/Case/Case4.png">
 Ventidge (904040 Edit)
+<img src="Resources/Images/Case/Case4.png">
 
 ## Troubleshooting
 
