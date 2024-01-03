@@ -24,7 +24,7 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 > One order of Resistors, Diodes, Header Pins, Switches, and PH 2.0mm Connectors is enough for the entire project.
 
 > [!NOTE]
-> The SlimeVR DIY Community recommends buying boards from the following sellers on AliExpress: Win Win, Aitexm or Tenstar Robot.
+> The SlimeVR DIY Community recommends buying boards from the following sellers on AliExpress: Win Win, Aitexm, or Tenstar Robot.
 
 > [!NOTE]
 > Type-C Ports are more durable. As for charging, USB-C to USB-C Power Delivery doesn't work. Use USB-A to USB-C cables to charge trackers.
@@ -266,8 +266,10 @@ Printer Settings used:
 
 ### Case Gallery
 <img src="Resources/Images/Case/Case3.png">
+Higanbana (Meia)
 
 <img src="Resources/Images/Case/Case4.png">
+Ventidge (904040 Edit)
 
 ## Troubleshooting
 
