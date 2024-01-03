@@ -266,9 +266,11 @@ Printer Settings used:
 
 ### Case Gallery
 Higanbana (Meia)
+
 <img src="Resources/Images/Case/Case3.png">
 
 Ventidge (904040 Edit)
+
 <img src="Resources/Images/Case/Case4.png">
 
 ## Troubleshooting
