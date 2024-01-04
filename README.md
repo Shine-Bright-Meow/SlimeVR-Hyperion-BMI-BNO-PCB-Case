@@ -1,5 +1,7 @@
 # SlimeVR Hyperion Multi-IMU BMI BNO Case and PCB
 
+<div align="center" valight="center"><img src="Resources/Images/Assembly/Hyperion_PCB.png" width="50%" height="50%"></div>
+
 ## Purchasing Guide
 ### Recommended Components (PCB)
 Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not both.
