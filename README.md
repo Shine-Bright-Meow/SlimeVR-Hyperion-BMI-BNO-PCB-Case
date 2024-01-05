@@ -314,7 +314,8 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Component | Link |
 | -------------------- | -------------------------------------------------------------------------------- |
 | PCB | <https://oshwlab.com/Newbie2620/slimevr-multi-imu-bmi-bno> |
-| Case | Fusion 360 Files - Soon™ |
+| Case - 503759 | Fusion 360 Files - [Hyperion_Lite_503759.f3d](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/Fusion_360/Hyperion_Lite_503759.f3d) |
+| Case - 804040 | Fusion 360 Files - Soon™ (Needs Testing) |
 
 ## Credit
 | Contributor | Description | Link |
