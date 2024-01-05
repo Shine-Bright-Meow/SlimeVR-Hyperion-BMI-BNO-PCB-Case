@@ -215,6 +215,7 @@ Printer Settings used:
 - Tested with PLA+ and PETG
 
 ### Case
+Older revision of case (Looser tolerance and thicker strap loops with other optimizations now)
 
 <img src="Resources/Images/Case/Case1.png">
 
