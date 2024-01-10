@@ -56,6 +56,7 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 ### Recommended Consumables/Tools
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
+| Solder Sucker| SS-02 or SS-02 Clone | <https://www.aliexpress.us/item/3256805437410900.html> |
 | Desoldewring Iron| Choose your electrical outlet | <https://www.aliexpress.us/item/3256804929123151.html> |
 | Rosin Flux | Liquid or Gel Type | N/A |
 
