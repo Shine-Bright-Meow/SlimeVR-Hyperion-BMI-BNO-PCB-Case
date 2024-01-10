@@ -65,7 +65,7 @@ Choose either BNO085 (Performance) or BMI160 (Value) from the list below; not bo
 > You will have a much better soldering experience with better tools. These are my recommended (but still on a budget) Soldering Iron and Solder Sucker if you don't have these tools or better already. They will work much better than those Amazon $10-20 soldering kits/iron.
 
 > [!NOTE]
-> The Soldering Iron listed requires an USB Type-C Power Delivery charging block and cable of 60W or higher.
+> The Soldering Iron listed requires an USB Type-C Power Delivery charging block of 60W or higher.
 
 ### Recommended Components (Case)
 | Component | Variant | Link |
