@@ -223,7 +223,7 @@ Printer Settings used:
 - Tested with PLA+ and PETG
 
 > [!TIP]
-> For stronger strap loops, print the base/bottom 4mm layers with 0% (solid) infill for just the **case** file. This is done in your Slicer.
+> For stronger strap loops, print the base/bottom 4mm layers with 0% (solid) infill for just the **case** file. Printing with a zig-zap pattern instead of line will help prevent strap loops from breaking at the weak point where layers join horizontally or vertically. These are done in your Slicer.
 
 ### Case
 Older revision of case (Looser tolerance and thicker strap loops with other optimizations now)
