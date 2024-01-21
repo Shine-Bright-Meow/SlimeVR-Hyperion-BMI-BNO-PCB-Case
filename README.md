@@ -222,6 +222,9 @@ Printer Settings used:
 - **Nozzle:** 0.4mm
 - Tested with PLA+ and PETG
 
+> [!TIP]
+> For stronger strap loops, print the base/bottom 4mm layers with 0% (solid) infill for just the **case** file. This is done in your Slicer.
+
 ### Case
 Older revision of case (Looser tolerance and thicker strap loops with other optimizations now)
 
