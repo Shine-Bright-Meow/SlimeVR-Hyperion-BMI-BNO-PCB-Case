@@ -227,11 +227,8 @@ Printer Settings used:
 > For stronger strap loops, print the base/bottom 4mm layers with 0% (solid) infill for just the **case** file. Printing with a zig-zap pattern instead of line will help prevent strap loops from breaking at the weak point where layers join horizontally or vertically. These are done in your Slicer.
 
 ### Case
-Older revision of case (Looser tolerance and thicker strap loops with other optimizations now)
-
-<img src="Resources/Images/Case/Case1.png">
-
-<img src="Resources/Images/Case/Case2.png">
+<img src="Resources/Images/Case/CaseNew.png">
+Case Photo by Higanbana (Meia)
 
 - **No AUX** hasa solid back portion.
 - **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
@@ -278,15 +275,6 @@ Older revision of case (Looser tolerance and thicker strap loops with other opti
 | 503759 | SS12D00G3| [Hyperion_Lite_Tray_503759_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_503759_SS12D00G3.stl) |
 | 804040 | SS22F32 | [Hyperion_Lite_Tray_804040_SS22F32.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS22F32.stl)|
 | 804040 | SS12D00G3| [Hyperion_Lite_Tray_804040_SS12D00G3.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Tray_804040_SS12D00G3.stl) |
-
-### Case Gallery
-Higanbana (Meia)
-
-<img src="Resources/Images/Case/Case3.png">
-
-Ventidge (804040 Edit)
-
-<img src="Resources/Images/Case/Case4.png">
 
 ## Troubleshooting
 
