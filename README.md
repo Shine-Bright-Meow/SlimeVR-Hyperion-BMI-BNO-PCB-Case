@@ -228,7 +228,9 @@ Printer Settings used:
 
 ### Case
 <img src="Resources/Images/Case/CaseNew.png">
+
 Case Photo by Higanbana (Meia)
+
 
 - **No AUX** hasa solid back portion.
 - **AUX JST Cutout** has a JST XH 2.54mm 4P-Pin or 5-Pin connector in the back for extension trackers. The non-noted version is for the Multi-IMU version of the PCB and the noted version is for Lupinixx's BMI160 Version.
