@@ -1,3 +1,5 @@
+I have a new carrier PCB which is smaller and more optimized than the Hyperion PCB. The entire assembly with case for the 503759 battery is smaller and lighter than the Hyperion one in this repository. The PCB and Case files for meowCarrier PCB can be found here: <https://github.com/Shine-Bright-Meow/meowCarrier/blob/main/README.md>
+
 # SlimeVR Hyperion Multi-IMU BMI BNO Case and PCB
 
 <div align="center" valight="center"><img src="Resources/Images/Assembly/Hyperion_PCB.png" width="50%" height="50%"></div>
