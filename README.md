@@ -243,9 +243,6 @@ Case Photo by Higanbana (Meia)
 > [!IMPORTANT]
 > GoPro Chest Harness Tracker will have a different IMU rotation than your other trackers.
 
-> [!NOTE]
-> 804040 files are untested. Please print one and make sure everything fits before printing more and let me know how everything goes on SlimeVR Discord!
-
 | Battery | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | 503759 | 50mm Strap Loops / No AUX | [Hyperion_Lite_Case_503759.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_503759.stl)|
