@@ -213,7 +213,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 #### MCU (WeMos D1 Mini)
 
 ### Video Guide (No Audio)
-<a href="https://www.youtube.com/watch?v=Jj9A87dSZgY" target="_blank"><img src="http://i3.ytimg.com/vi/Jj9A87dSZgY/hqdefault.jpg" alt="Video Tutorial (No Audio)" width="360" height="270" border="0" /></a>
+<a href="https://www.youtube.com/watch?v=7tIKwmKxJug" target="_blank"><img src="https://img.youtube.com/vi/7tIKwmKxJug/sddefault.jpg" width="360" height="270" border="0"></a>
 
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
@@ -327,6 +327,7 @@ Feel free to create a pull request to this repository or mention me in SlimeVR's
 | Lupinixx | Original BMI160 PCB Design and SS12D00G3 Tray used in this repository | <https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB> |
 | Tmandel | BNO085 modifications to the original PCB | <https://oshwlab.com/tmandel/slimevr-hyperion-503759-bno085> |
 | Astrocast123 | Improvement on Tmandel's BNO08X PCB revision | <https://oshwlab.com/astrocast123/SlimeVR-Hyperion-BNO08X> |
+| nethesem/Adamant IT | Video with Commentary | <https://www.youtube.com/@AdamantIT2> |
 | Shine Bright | Improvements to PCB, new case design, and this guide write-up in this repository | <https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case> |
 
 Thank you to those who printed my case and provided feedback: Topaz, Ventidge, Higanbana (Meia), and Plank.
