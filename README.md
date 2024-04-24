@@ -213,7 +213,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 #### MCU (WeMos D1 Mini)
 
 ### Video Guide
-<a href="https://www.youtube.com/watch?v=7tIKwmKxJug" target="_blank"><img src="https://img.youtube.com/vi/7tIKwmKxJug/sddefault.jpg" width="360" height="270" border="0"></a>
+<a href="https://youtu.be/7tIKwmKxJug?t=1611" target="_blank"><img src="https://img.youtube.com/vi/7tIKwmKxJug/sddefault.jpg" width="360" height="270" border="0"></a>
 
 ## Case Guide
 The case consists of 3 files: Case, Lid, and Tray.
