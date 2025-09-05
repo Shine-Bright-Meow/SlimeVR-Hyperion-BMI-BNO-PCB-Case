@@ -7,15 +7,15 @@
 
 ## Purchasing Guide
 ### Recommended Components (PCB)
-Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the list below; not all three.
+Choose either ICM-45686/LSM6DSV (Performance) and LSM6DSR (Budget/Value) from the list below; not all three.
 
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
 | WeMos D1 Mini | Micro or Type-C (not V4.0.0) | <https://www.aliexpress.us/item/2251832465432818.html> |
 | TP4056 | 18650 Micro or Type-C | <https://www.aliexpress.us/item/2251832290307200.html> |
-| BMI160 | N/A | <https://www.aliexpress.us/item/2255799866368692.html> |
-| BMI270 | N/A | <https://store.kouno.xyz/products/bmi270-breakout-board> |
-| BNO085 | N/A | <https://shop.slimevr.dev/products/slimevr-imu-module-bno085> |
+| ICM-45686 | N/A | <https://shop.slimevr.dev/products/slimevr-mumo-breakout-module-v1-icm-45686-qmc6309> |
+| LSM6DSR | N/A | <https://moffshop.deyta.de/products/lsm6dsr> |
+| LSM6DSV | N/A | <https://moffshop.deyta.de/products/lsm6dsv-module> |
 | SS22F32/DPDT 2P2T Switches | N/A | <https://www.aliexpress.us/item/2251832789220847.html> |
 | 1/4W Metal Film Resistor | 180**K** | <https://www.aliexpress.us/item/3256803737288214.html> |
 | Schottky Rectifier Diode | 1N5817 | <https://www.aliexpress.us/item/2255800018624086.html> |
@@ -24,7 +24,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 | Lithium Polymer Ion Battery | 503759 with Connector (PH) | <https://www.aliexpress.us/item/3256805125875396.html> |
 
 > [!IMPORTANT]
-> Purchase 30% more boards (WeMos D1 Mini, TP4056, and BMI160/BMI270/BNO085 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly/soldering.
+> Purchase 30% more boards (WeMos D1 Mini, TP4056, and LSM6DSR/LSM6DSV/ICM-45686 than what is needed. There is the possibility that components are dead on arrival or get damaged during assembly/soldering.
 
 > [!NOTE]
 > One order of Resistors, Diodes, Header Pins, Switches, and PH 2.0mm Connectors is enough for the entire project.
@@ -50,9 +50,9 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 ### Optional Components (PCB)
 | Component | Variant | Link |
 | -------------------- | --------------- | -------------------------------------------------------------------------------- |
-| JST XH 2.54mm Connector | Right Angle/Side Entry & 4-Pins(BMI160 and BMI270)/5-Pins(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
-| JST XH 2.54mm Connector with Female Cable | Right Angle/Side Entry & 4-Pins(BMI160 and BMI270)/5-Pins(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
-| Sheathed Wire Cable | 28AWG & 4Cores(BMI160 and BMI270)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
+| JST XH 2.54mm Connector | Right Angle/Side Entry & 4-Pins(LSM6DSR/LSM6DSV/ICM-45686)/5-Pins(BNO085) | <https://www.aliexpress.us/item/2251832822174658.html> |
+| JST XH 2.54mm Connector with Female Cable | Right Angle/Side Entry & 4-Pins(LSM6DSR/LSM6DSV/ICM-45686)/5-Pins(BNO085)| <https://www.aliexpress.us/item/2255799934230488.html> |
+| Sheathed Wire Cable | 28AWG & 4Cores(LSM6DSR/LSM6DSV/ICM-45686)/5Cores(BNO085) | <https://www.aliexpress.us/item/2255800384086289.html> |
 
 > [!NOTE]
 > I recommend using Sheathed Wire Cable and soldering it directly onto the PCB for extensions. (JST XH Connector is not needed for this method) Usually, less connection issues than using connectors.
@@ -208,7 +208,7 @@ Choose either BNO085 (Performance), BMI270 (Value), or BMI160 (Budget) from the 
 
 #### Charging Board (TP4056)
 
-#### IMU (BMI160, BMI270, or BNO085)
+#### IMU (LSM6DSR, LSM6DSV, ICM-45686)
 
 #### MCU (WeMos D1 Mini)
 
