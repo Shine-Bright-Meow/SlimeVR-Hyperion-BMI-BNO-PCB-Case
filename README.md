@@ -253,6 +253,8 @@ Case Photo by Higanbana (Meia)
 | 804040 | 50mm Strap Loops / AUX JST Cutout | [Hyperion_Lite_Case_804040_AUX.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX.stl) |
 | 804040 | 50mm Strap Loops / AUX JST Cutout (Lupinixx) | [Hyperion_Lite_Case_804040_AUX_Lupinixx.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_AUX_Lupinixx.stl) |
 | 804040 | GoPro Chest Harness Adapter / No AUX | [Hyperion_Lite_Case_804040_GoPro.stl](https://github.com/Shine-Bright-Meow/SlimeVR-Hyperion-BMI-BNO-PCB-Case/raw/main/Case/STL/Hyperion_Lite_Case_804040_GoPro.stl) |
+| 804040 and 503759 | GoPro Chest Harness Adapter alternative mount/ No AUX | https://www.printables.com/model/1362426-hyperion-lite-slimevr-case-with-screw-chest-gopro/files |
+
 
 ### Lid
 - No AUX / AUX 5mm Hole has a solid back portion. Use this Lid for the **AUX 5mmm Hole** case also.
